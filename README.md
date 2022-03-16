@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Folan-M
-- 👀 I’m interested in LabVIEW & C#(WindowsForm OR WPF)
+- 👀 I’m interested in LabVIEW & C#(WindowsForm or WPF)
 - 🌱 I’m currently learning C#
 - 💞️ I'm looking for a partner to study with
 - 📫 E-mail: fm1207@qq.com
